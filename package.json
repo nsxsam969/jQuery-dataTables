@@ -1,0 +1,15 @@
+{
+  "name": "jquery-datatables",
+  "version": "1.0.0",
+  "description": "a Application for jQuery DataTables",
+  "main": "./main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "CHEN,SHENG HUA",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.2.2",
+    "electron-builder": "^22.11.7"
+  }
+}
