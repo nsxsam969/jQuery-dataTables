@@ -10,5 +10,4 @@
 
 ## 說明
 * /build: 存放打包後的安裝檔(包含免安裝檔),輸入指令'node build.js'就會開始打包)
-* /icons: 存放icon圖片
 * /node_modules: 存放套件(請自行安裝electron)
